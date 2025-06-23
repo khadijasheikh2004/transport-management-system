@@ -8,7 +8,7 @@ Transport Management System that features a normalized relational SQL database a
 
 - **SQL** – schema design, constraints, indexing, views, procedures, triggers, views, reports
 - **Python** – used to auto-generate and insert data into the database
-- 
+
 ---
 
 ## Key Features
